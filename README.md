@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# ESG Analytics Platform 🌍
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive web application for analyzing Environmental, Social, and Governance (ESG) metrics of publicly traded companies. Built with React and featuring real-time ESG scoring, risk assessment, and sustainable investment insights.
 
-## Available Scripts
+![ESG Platform Screenshot](https://img.shields.io/badge/ESG-Analytics-blue)
+![React](https://img.shields.io/badge/React-18.2.0-61dafb)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+- **Real-time ESG Scoring**: Comprehensive analysis of Environmental, Social, and Governance metrics
+- **100+ Companies**: Pre-loaded database of major stocks including FAANG, Fortune 500, and more
+- **Interactive Dashboards**: Beautiful data visualizations with charts and gauges
+- **Dark/Light Theme**: Toggle between modern dark and light themes
+- **Risk Assessment**: Automated risk level calculations (Low/Medium/High/Severe)
+- **ESG News Feed**: Latest sustainability news and updates for each company
+- **Material Issues Tracking**: Detailed breakdown of ESG performance factors
+- **Historical Trends**: 12-month historical ESG score tracking
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🌞 Light Theme
+![ESG Analytics Platform - Light Theme](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Lightmode%20main.PNG)
 
-### `npm test`
+### 🌙 Dark Theme
+![ESG Analytics Platform - Dark Theme](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Darkmode%20main.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🔍 Search Functionality
+![Stock Search Feature](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Main%20Search%201.PNG)
 
-### `npm run build`
+### 📊 ESG Analysis Dashboard
+![ESG Scores and Analytics](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Main%20Search%202.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend Framework**: React 18.2.0
+- **UI Components**: Lucide React (icons)
+- **Charts**: Recharts
+- **Styling**: Tailwind CSS
+- **State Management**: React Hooks
+- **Data Visualization**: D3.js (via Recharts)
 
-### `npm run eject`
+## 📋 Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Before you begin, ensure you have installed:
+- Node.js (v14.0.0 or higher)
+- npm (v6.0.0 or higher) or yarn
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔧 Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/esg-analytics-platform.git
+   cd esg-analytics-platform
