@@ -25,10 +25,8 @@ A modern, responsive web application for analyzing Environmental, Social, and Go
 ### 🌙 Dark Theme
 ![ESG Analytics Platform - Dark Theme](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Darkmode%20main.PNG)
 
-### 🔍 Search Functionality
-![Stock Search Feature](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Main%20Search%201.PNG)
-
 ### 📊 ESG Analysis Dashboard
+![Stock Search Feature](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Main%20Search%201.PNG)
 ![ESG Scores and Analytics](https://raw.githubusercontent.com/00Vlad44/ESG-Analytics-Platform/main/src/screenshots/Main%20Search%202.PNG)
 
 
